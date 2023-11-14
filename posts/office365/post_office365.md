@@ -1,5 +1,6 @@
 
 # Nutanix VM Creation Guide
+*Posted on 2023-03-15*
 
 This guide provides a step-by-step approach to creating virtual machines in Nutanix.
 
